@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Day5\MonthlyPayment\MonthlyPayment\bin\Debug\MonthlyPayment.exe.config
+C:\Users\Admin\Documents\Day5\MonthlyPayment\MonthlyPayment\bin\Debug\MonthlyPayment.exe
+C:\Users\Admin\Documents\Day5\MonthlyPayment\MonthlyPayment\bin\Debug\MonthlyPayment.pdb
+C:\Users\Admin\Documents\Day5\MonthlyPayment\MonthlyPayment\obj\Debug\MonthlyPayment.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Day5\MonthlyPayment\MonthlyPayment\obj\Debug\MonthlyPayment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Day5\MonthlyPayment\MonthlyPayment\obj\Debug\MonthlyPayment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Day5\MonthlyPayment\MonthlyPayment\obj\Debug\MonthlyPayment.exe
+C:\Users\Admin\Documents\Day5\MonthlyPayment\MonthlyPayment\obj\Debug\MonthlyPayment.pdb
